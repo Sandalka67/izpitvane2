@@ -4,6 +4,12 @@ A lantern shined in the tower.
 A shadow moved behind the curtain.
 Was someone watching you?
 
+file3.txt:
+The old book lay on the table.
+Its pages were yellowed and torn.
+A map fell out as it was opened.
+Where could it lead?  
+
 file2.txt:
 The river flowed gently.
  It reflected the moonlight.
